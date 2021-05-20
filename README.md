@@ -1,5 +1,5 @@
-# W2HMusic TELEGRAM VC MUSIC BOT 
-[![W2HMusic logo](https://telegra.ph/file/41871555394988009d3ca.jpg)](https://t.me/W2HSupport)
+# ෴𝙰𝚍𝚒𝚝𝚢𝚊෴ TELEGRAM VC MUSIC BOT 
+[![෴𝙰𝚍𝚒𝚝𝚢𝚊෴ logo](https://telegra.ph/file/6063c43692db2b1b72b22.jpg)](https://t.me/addict_aditya)
 
 
 -It is inspired from su music project and hamkercat's telegram voice bot.
