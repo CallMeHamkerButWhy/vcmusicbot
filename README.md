@@ -71,7 +71,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 ## The easiest way to deploy this Bot
 ### HEROKU
-<a href="https://heroku.com/deploy?template=https://github.com/W2HGalaxy-Op/W2HMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<a href="https://heroku.com/deploy?template=https://github.com/MeIsNoob05/addictadi"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ### StringSession
 
@@ -118,8 +118,8 @@ Copy `example.env` to `.env` and fill it with your credentials.
 * News channel: <a  href="https://t.me/W2H_Userbot" alt="W2HMusic Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-W2HMusic%20Updates-9cf" /> </a>
 
 ## Support
-- [Channel](https://t.me/W2H_userbot)
-- [Group](https://t.me/W2HSupport)
+- [Channel](https://t.me/addict_aditya)
+- [Group](https://t.me/addict_aditya)
 
 ## Credits
 - [DaisyXMusic](https://github.com/TeamDaisyX/DaisyXMusic)
