@@ -114,8 +114,8 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 - Inline search is also supported.
 
-* Bot Link:  <a href="http://t.me/fsociety07bot" alt="🔥 A 〆 F ν¢ вσт-χ 🔥"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-W2HMusic-blue" /> </a>
-* News channel: <a  href="http://t.me/The_fsociety" alt="W2HMusic Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-W2HMusic%20Updates-9cf" /> </a>
+* Bot Link:  <a href="http://t.me/fsociety07bot" alt="🔥 A 〆 F ν¢ вσт-χ 🔥
+* News channel: <a  href="http://t.me/The_fsociety" alt="🔥 A 〆 F ν¢ вσт-χ 🔥
 
 ## Support
 - [Channel](http://t.me/The_fsociety)
