@@ -436,7 +436,7 @@ async def play(_, message: Message):
                               #print(e)
                               await lel.edit(
                                   f"<b>🔴 Flood Wait Error 🔴 \nUser {user.first_name} couldn't join your group due to heavy requests for userbot! Make sure user is not banned in group."
-                                  "\n\nOr manually add @SONGSxOP_bot to your Group and try again</b>",
+                                  "\n\nOr manually add @axf_music_bot to your Group and try again</b>",
                               )
                               pass
     try:
@@ -491,7 +491,7 @@ async def play(_, message: Message):
                 [
                    InlineKeyboardButton(
                        text="⭐ Support ⭐",
-                       url='https://t.me/ADDICT_ADITYA')
+                       url='http://t.me/The_fsociety')
                 ],
                 [       
                     InlineKeyboardButton(
@@ -583,7 +583,7 @@ async def deezer(client: Client, message_: Message):
                               #print(e)
                               await lel.edit(
                                   f"<b>🔴 Flood Wait Error 🔴 \nUser {user.first_name} couldn't join your group due to heavy requests for userbot! Make sure user is not banned in group."
-                                  "\n\nOr manually add @MUSICxAMBOT to your Group and try again</b>",
+                                  "\n\nOr manually add @axf_music_bot to your Group and try again</b>",
                               )
                               pass
     try:
@@ -623,7 +623,7 @@ async def deezer(client: Client, message_: Message):
              [
                InlineKeyboardButton(
                    text="⭐ Support ⭐",
-                   url='https://t.me/addict_aditya')
+                   url='http://t.me/The_fsociety')
              ],
              [       
                  InlineKeyboardButton(
@@ -712,7 +712,7 @@ async def jiosaavn(client: Client, message_: Message):
                               #print(e)
                               await lel.edit(
                                   f"<b>🔴 Flood Wait Error 🔴 \nUser {user.first_name} couldn't join your group due to heavy requests for userbot! Make sure user is not banned in group."
-                                  "\n\nOr manually add @SONGSxOP_bot to your Group and try again</b>",
+                                  "\n\nOr manually add @axf_music_bot to your Group and try again</b>",
                               )
                               pass
     try:
@@ -756,7 +756,7 @@ async def jiosaavn(client: Client, message_: Message):
              [
                InlineKeyboardButton(
                    text="⭐ Support ⭐",
-                   url='https://t.me/addict_aditya')
+                   url='http://t.me/The_fsociety')
              ],
              [       
                InlineKeyboardButton(
