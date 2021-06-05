@@ -532,7 +532,7 @@ async def play(_, message: Message):
         await message.reply_photo(
         photo="final.png",
         reply_markup=keyboard,
-        caption="▶️ **Playing** song requested by {} via ෴Akshu෴ ".format(
+        caption="▶️ **Playing** song requested by {} via ෴Fsociety෴ ".format(
         message.from_user.mention()
         ),
     )
@@ -547,13 +547,13 @@ async def play(_, message: Message):
 )
 async def deezer(client: Client, message_: Message):
     global que
-    lel = await message_.reply("🔄 **Processing Via ✯෴Akshu෴✯**")
+    lel = await message_.reply("🔄 **Processing Via ✯෴Fsociety෴✯**")
     administrators = await get_administrators(message_.chat)
     chid = message_.chat.id
     try:
         user = await USER.get_me()
     except:
-        user.first_name =  "෴Akshu෴"
+        user.first_name =  "෴Fsociety෴"
     usar = user
     wew = usar.id
     try:
@@ -645,9 +645,9 @@ async def deezer(client: Client, message_: Message):
         loc = file_path
         appendable = [s_name, r_by, loc]
         qeue.append(appendable)
-        await res.edit_text(f"✯෴Akshu෴✯= #️⃣ Queued at position {position}")
+        await res.edit_text(f"✯෴Fsociety෴✯= #️⃣ Queued at position {position}")
     else:
-        await res.edit_text("✯෴Akshu෴✯=▶️ Playing.....")
+        await res.edit_text("✯෴Fsociety෴✯=▶️ Playing.....")
         chat_id = message_.chat.id
         que[chat_id] = []
         qeue = que.get(message_.chat.id)
@@ -676,13 +676,13 @@ async def deezer(client: Client, message_: Message):
 )
 async def jiosaavn(client: Client, message_: Message):
     global que
-    lel = await message_.reply("🔄 **Processing Via ✯෴Akshu෴✯=**")
+    lel = await message_.reply("🔄 **Processing Via ✯෴Fsociety෴✯=**")
     administrators = await get_administrators(message_.chat)
     chid = message_.chat.id
     try:
         user = await USER.get_me()
     except:
-        user.first_name =  "෴𝙰kshu෴"
+        user.first_name =  "෴Fsociety෴"
     usar = user
     wew = usar.id
     try:
@@ -780,12 +780,12 @@ async def jiosaavn(client: Client, message_: Message):
             chat_id=message_.chat.id,
             reply_markup=keyboard,
             photo="final.png",
-            caption=f"✯෴Akshu෴✯=#️⃣ Queued at position {position}",
+            caption=f"✯෴Fsociety෴✯=#️⃣ Queued at position {position}",
         
         )           
            
     else:
-        await res.edit_text("✯෴Akshu෴✯=▶️ Playing.....")
+        await res.edit_text("✯෴Fsociety෴✯=▶️ Playing.....")
         chat_id = message_.chat.id
         que[chat_id] = []
         qeue = que.get(message_.chat.id)
