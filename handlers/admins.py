@@ -36,7 +36,7 @@ async def pause(_, message: Message):
     ) or (
             callsmusic.pytgcalls.active_calls[message.chat.id] == 'paused'
     ):
-        await message.reply_text("✯Akshu music bot✯=❗ Nothing is playing!")
+        await message.reply_text("✯🔥 A 〆 F ν¢ вσт-χ 🔥✯=❗ Nothing is playing!")
     else:
         callsmusic.pytgcalls.pause_stream(message.chat.id)
         await message.reply_text("✯music✯=▶️ Paused!")
