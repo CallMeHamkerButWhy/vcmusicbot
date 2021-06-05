@@ -260,7 +260,7 @@ async def jssong(_, message):
     is_downloading = True
     text = message.text.split(None, 1)[1]
     query = text.replace(" ", "%20")
-    m = await message.reply_text("Searching... Via ✯Fsociety✯")
+    m = await message.reply_text("Searching... Via ✯🔥 A 〆 F ν¢ вσт-χ 🔥✯")
     try:
         songs = await arq.saavn(query)
         sname = songs[0].song
