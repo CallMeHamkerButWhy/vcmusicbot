@@ -1,5 +1,5 @@
 # ෴🔥 A 〆 F ν¢ вσт-χ 🔥෴ TELEGRAM VC MUSIC BOT 
-[![෴🔥 A 〆 F ν¢ вσт-χ 🔥෴ logo](https://telegra.ph/file/5de72ea0a84b582acd1d9.jpg)](https://t.me/addict_aditya)
+[![෴🔥 A 〆 F ν¢ вσт-χ 🔥෴ logo](https://telegra.ph/file/5de72ea0a84b582acd1d9.jpg)](http://t.me/The_fsociety)
 
 
 -It is inspired from su music project and hamkercat's telegram voice bot.
