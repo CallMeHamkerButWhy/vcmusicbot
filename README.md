@@ -1,5 +1,5 @@
-# ෴𝙰𝚍𝚒𝚝𝚢𝚊෴ TELEGRAM VC MUSIC BOT 
-[![෴𝙰𝚍𝚒𝚝𝚢𝚊෴ logo](https://telegra.ph/file/6063c43692db2b1b72b22.jpg)](https://t.me/addict_aditya)
+# ෴🔥 A 〆 F ν¢ вσт-χ 🔥෴ TELEGRAM VC MUSIC BOT 
+[![෴🔥 A 〆 F ν¢ вσт-χ 🔥෴ logo](https://telegra.ph/file/5de72ea0a84b582acd1d9.jpg)](https://t.me/addict_aditya)
 
 
 -It is inspired from su music project and hamkercat's telegram voice bot.
@@ -118,8 +118,8 @@ Copy `example.env` to `.env` and fill it with your credentials.
 * News channel: <a  href="https://t.me/W2H_Userbot" alt="W2HMusic Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-W2HMusic%20Updates-9cf" /> </a>
 
 ## Support
-- [Channel](https://t.me/addict_aditya)
-- [Group](https://t.me/addict_aditya)
+- [Channel](http://t.me/The_fsociety)
+- [Group](http://t.me/The_fsociety)
 
 ## Credits
 - [DaisyXMusic](https://github.com/TeamDaisyX/DaisyXMusic)
