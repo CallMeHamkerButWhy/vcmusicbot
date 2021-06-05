@@ -9,25 +9,25 @@ from config import BOT_NAME as bn
 @Client.on_message(filters.command("start") & filters.private & ~filters.channel)
 async def start(_, message: Message):
     await message.reply_text(
-        f"""**Hey, I'm  {bn}, an open-source bot that lets you play music in your Telegram groups.For Support Join our group @ADDICT_ADITYA.\n\n The Assistant must be in your group to play music in the voice chat of your group.\n\n /help to know my commands**""",
+        f"""**Hey, I'm  {bn}, an open-source bot that lets you play music in your Telegram groups.For Support Join our group @The_fsociety.\n\n The Assistant must be in your group to play music in the voice chat of your group.\n\n /help to know my commands**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "Support⚡️", url="https://t.me/ADDICT_ADITYA"
+                        "Support⚡️", url="http://t.me/The_fsociety"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "Creater⚡️", url="https://t.me/addict_adi"
+                        "Creater⚡️", url="http://t.me/The_fsociety"
                     ),
                     InlineKeyboardButton(
-                        "Adi Is Op⚡️", url="https://t.me/addict_adi"
+                        "Haadi Is Op⚡️", url="http://t.me/The_fsociety"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "Add To Your Group⚡️", url="https://t.me/addict_aditya?startgroup=true"
+                        "Add To Your Group⚡️", url="http://t.me/The_fsociety?startgroup=true"
                     )
                 ]
             ]
